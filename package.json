@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "priorityqueuejs": "^2.0.0",
+    "queue-fifo": "^0.2.6"
+  }
+}
